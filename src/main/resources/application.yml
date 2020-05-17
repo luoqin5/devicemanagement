@@ -1,0 +1,16 @@
+# 端口号
+server:
+  port: 7900
+# 数据库相关配置
+spring:
+  jpa:
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  # 数据源
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://47.92.122.203:3306/
+    username: root
+    password: Aa123456!
