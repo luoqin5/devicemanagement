@@ -11,6 +11,6 @@ spring:
   # สýพÝิด
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://47.92.122.203:3306/costmanagement
+    url: jdbc:mysql://47.92.122.203:3306/devicemanagement
     username: root
     password: Aa123456!
